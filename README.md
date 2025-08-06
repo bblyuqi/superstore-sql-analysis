@@ -54,6 +54,11 @@ Queries are organized in the caseportfolio.sql
 
 ---
 
+## 📈 Visualizations
+Supporting charts and dashboards are stored in the Charts.twb folder.
+
+---
+
 ## 🚀 Next Steps
 - Build predictive models for profit and shipping delays.
 - Segment customers for personalized discounts and delivery options.
